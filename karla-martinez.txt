@@ -92,4 +92,4 @@ git push
 git status
 git add .
 git commit -m "updated"
-git push
+git push origin master
